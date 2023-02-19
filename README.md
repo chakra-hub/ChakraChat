@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+This is the live link of the ChakraChat App - https://peppy-churros-41393d.netlify.app/
+Please login with your google accounts to chat
+
+# Getting Started with ChakraChat APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
